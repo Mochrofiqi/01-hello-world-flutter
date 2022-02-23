@@ -1,12 +1,12 @@
 
-# hello_word_1
+# Membuat Flutter Hello World
 
 Nama : Moch. Rofiqi
 NIM : 2031710135
 Kelas : MI 2C
 Prodi : D3 MI
 
-## Getting Started
+## Hasil Praktikum 1
 
 This project is a starting point for a Flutter application.
 
